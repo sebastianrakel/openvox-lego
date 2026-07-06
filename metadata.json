@@ -1,0 +1,18 @@
+{
+  "name": "sebastianrakel-lego",
+  "version": "0.1.0",
+  "author": "Sebastian Rakel",
+  "license": "Apache-2.0",
+  "summary": "Installs and Manages Lego and SSL Certificates",
+  "source": "https://github.com/sebastianrakel/openvox-lego",
+  "dependencies": [],
+  "requirements": [
+    {
+      "name": "openvox",
+      "version_requirement": ">= 7.0.0 < 9.0.0"
+    }
+  ],
+  "operatingsystem_support": [],
+  "tags": [],
+  "pdk-version": "3.4.0"
+}

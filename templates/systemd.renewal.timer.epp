@@ -1,0 +1,7 @@
+<%- |
+    String[1] $timer_interval,
+| -%>
+# THIS FILE IS MANAGED BY OPENVOX
+[Timer]
+OnCalendar=<%= $timer_interval %>
+RandomizedDelaySec=1d
